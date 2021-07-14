@@ -1,8 +1,8 @@
 # equation plotter
 ## sample runs
-![alt text](http://url/to/1.png)
-![alt text](http://url/to/2.png)
-![alt text](http://url/to/4.png)
-![alt text](http://url/to/3.png)
+![alt text](https://github.com/Salaheldinyoussry/FunctionPlotter/blob/main/3.GIF)
+![alt text](https://github.com/Salaheldinyoussry/FunctionPlotter/blob/main/2.GIF)
+![alt text](https://github.com/Salaheldinyoussry/FunctionPlotter/blob/main/4.GIF)
+![alt text](https://github.com/Salaheldinyoussry/FunctionPlotter/blob/main/1.GIF)
 
  
